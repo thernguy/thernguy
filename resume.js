@@ -119,4 +119,48 @@
     "resumeDownloadLink": "https://drive.google.com/u/0/uc?id=1PDzFr_h3gYAgcxQuHvSl_OZclGjZ23k3&export=download",
         "bio": "I'm a software engineer who loves to build things.",
         "aboutMe": "Experienced Software Developer with a proven track record in freelancing and remote positions for two years, specializing in full-stack development. Seeking a challenging role to leverage my technical expertise and collaborative skills in delivering high-quality software solutions.",
+      {
+  "CompleteGreet": {
+    "title": "Complete Greet",
+    "description": "A website that allows you to create a greeting card for your loved ones",
+    "url": "https://completegreet.com",
+    "images": [
+      "https://ibb.co/XChYc5x",
+      "https://ibb.co/XtzVF7g",
+      "https://ibb.co/WK4xSrX",
+      "https://ibb.co/Nm41mSr",
+      "https://ibb.co/p0PS6Bv",
+      "https://ibb.co/GWj9kFN"
+    ],
+    "techs": [
+      "React",
+      "Next.js",
+      "Redux",
+      "Tailwind CSS",
+      "Node.js",
+      "Express.js",
+      "SQLite",
+      "Stripe API"
+    ]
+  },
+  "MyFlix": {
+    "title": "MyFlix",
+    "description": "A website that allows you to create a greeting card for your loved ones",
+    "url": "https://myflix-lake-six.vercel.app/",
+    "images": [
+      "https://ibb.co/XChYc5x",
+      "https://ibb.co/XtzVF7g",
+      "https://ibb.co/WK4xSrX",
+      "https://ibb.co/Nm41mSr",
+      "https://ibb.co/p0PS6Bv",
+      "https://ibb.co/GWj9kFN"
+    ],
+    "techs": [
+      "React",
+      "Redux",
+      "Styled Components",
+      "The Movie DB API"
+    ]
+  }
+}
 }

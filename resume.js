@@ -8,7 +8,7 @@
     "github": "https://github.com/mamun-mahmood/",
     "twitter": "https://twitter.com/mamunmah"
   },
-  "objective": "Results-driven Full Stack developer with 2 years of hands-on experience...",
+  "objective": "Results-driven Full Stack developer with 2 years of hands-on experience in front-end and back-end development. Seeking a dynamic role that allows me to leverage my expertise in JavaScript, React.js, Nodejs related stach to contribute in exciting product development and learn further.",
   "skills": {
     "tech": [
       "JavaScript",

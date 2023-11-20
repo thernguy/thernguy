@@ -119,8 +119,9 @@
     "resumeDownloadLink": "https://drive.google.com/u/0/uc?id=1PDzFr_h3gYAgcxQuHvSl_OZclGjZ23k3&export=download",
         "bio": "I'm a software engineer who loves to build things.",
         "aboutMe": "Experienced Software Developer with a proven track record in freelancing and remote positions for two years, specializing in full-stack development. Seeking a challenging role to leverage my technical expertise and collaborative skills in delivering high-quality software solutions.",
-      {
-  "CompleteGreet": {
+      
+ "works": [
+    "CompleteGreet": {
     "title": "Complete Greet",
     "description": "A website that allows you to create a greeting card for your loved ones",
     "url": "https://completegreet.com",
@@ -163,4 +164,5 @@
     ]
   }
 }
+ ]
 }

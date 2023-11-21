@@ -1,13 +1,5 @@
 ﻿<p align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamun-mahmood&label=Profile%20views&color=0e75b6&style=flat" alt="mamunmahmood" /> </p>
-<p align="left"> <a href="https://www.instagram.com/mamun_mahmood/" target="blank"><img src="https://img.shields.io/twitter/follow/mamunmahmood?logo=instagram&style=for-the-badge" alt="mamun" /></a> </p>
-
-- 💬 Ask me about **React, Node and JavaScript.**
-
-- 📫 How to reach me **mamun.mahmood1999@gmail.com**
-
-<br>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p><img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=mamun-mahmood&show_icons=true&locale=en" alt="mamun" /></p>

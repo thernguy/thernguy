@@ -2,7 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamun-mahmood&label=Profile%20views&color=0e75b6&style=flat" alt="mamunmahmood" /> </p>
 <h3 align="left">Languages and Tools:</h3>
 
-<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=mamun-mahmood&show_icons=true&locale=en" alt="mamun" /></p>
+<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=mamun-mahmood&show_icons=true&locale=en" alt="mamun" />
+<br> <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mamun-mahmood&" alt="mamun" /> <br><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mamun-mahmood&show_icons=true&locale=en&layout=compact" alt="mamun" /> </p>
 <!-- skills react, nextjs, javascript, reduxt in list item -->
 <ul>
   <li>React</li>
@@ -21,7 +22,7 @@
   <li>Netlify</li>
   </ul>
 
-<p><img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mamun-mahmood&" alt="mamun" /></p>
+<p></p>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,6 +30,5 @@
 <a href="https://linkedin.com/in/m-a-mamun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mamuns" height="30" width="40" /></a>
 <a href="https://fb.com/mamun.mahmood.me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mamuns" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mamamun1999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mamun" height="30" width="40" /></a>
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mamun-mahmood&show_icons=true&locale=en&layout=compact" alt="mamun" />
-</p>
 
+</p>

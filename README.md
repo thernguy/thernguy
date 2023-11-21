@@ -1,5 +1,5 @@
 ﻿<p align="center">
-<p align="left">
+<p align="left" width="50%">
 <h3 >Techs:</h3>
 <ul>
   <li>React</li>

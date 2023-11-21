@@ -1,4 +1,6 @@
 ﻿<p align="center">
+<p align="left">
+<h3 >Techs:</h3>
 <ul>
   <li>React</li>
   <li>Nextjs</li>
@@ -9,9 +11,8 @@
   <li>MongoDB</li>
   <li>Material UI</li>
   </ul>
-  <h3 align="left">Tools:</h3>
+  <h3 >Tools:</h3>
 <ul>
-
   <li>Git</li>
   <li>GitHub</li>
   <li>VS Code</li>
@@ -20,9 +21,7 @@
   <li>Netlify</li>
   </ul>
 </p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=mamun-mahmood&label=Profile%20views&color=0e75b6&style=flat" alt="mamunmahmood" /> </p>
 
-<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=mamun-mahmood&show_icons=true&locale=en" alt="mamun" />
-<br> <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mamun-mahmood&" alt="mamun" /> <br><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mamun-mahmood&show_icons=true&locale=en&layout=compact" alt="mamun" /> </p>
-<h3 align="left">Techs:</h3>
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mamun-mahmood&label=Profile%20views&color=0e75b6&style=flat" alt="mamunmahmood" /> <br><img width="50%" src="https://github-readme-stats.vercel.app/api?username=mamun-mahmood&show_icons=true&locale=en" alt="mamun" />
+<br> <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mamun-mahmood&" alt="mamun" /> <br><img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mamun-mahmood&show_icons=true&locale=en&layout=compact" alt="mamun" /> </p>
+</p>

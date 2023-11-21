@@ -1,9 +1,4 @@
 ﻿<p align="center">
-<img  alt="Coding" width="400" src="./github.png">
-<h1 align="center">Hi, This is Mamun Mahmood</h1>
-</p>
-<h3 align="center">Software Engineer from Bangladesh</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamun-mahmood&label=Profile%20views&color=0e75b6&style=flat" alt="mamunmahmood" /> </p>
 <p align="left"> <a href="https://www.instagram.com/mamun_mahmood/" target="blank"><img src="https://img.shields.io/twitter/follow/mamunmahmood?logo=instagram&style=for-the-badge" alt="mamun" /></a> </p>
 

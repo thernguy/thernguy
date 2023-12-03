@@ -96,7 +96,7 @@
       ]
     }
   ],
-  "leadership": "At my previous job, took the lead in building the backend for a React-Native chat application. Managed two intern backend developers, initiating regular team meetings to ensure alignment and progress tracking.Successfully delivered the project on time.",
+  "leadership": "At my previous job, I took the lead in building the backend for a React-Native chat application. Managed two intern backend developers, initiating regular team meetings to ensure alignment and progress tracking.Successfully delivered the project on time.",
   "extraCurricular": [
     "Share insights on React, Node.js, and JavaScript tips and tricks on LinkedIn.",
     "Avid guitar player and music enthusiast.",
@@ -113,7 +113,7 @@
   "works": [
     {
       "title": "Complete Greet",
-      "description": "A website that let's you to create chat bubble and embed it in your website with features like live chats, calls.",
+      "description": "A website that lets you to create a chat bubble and embed it in your website with features like live chats, and calls.",
       "url": "https://completegreet.com",
       "images": [
         "https://i.ibb.co/Wk10Fsj/completegreet1.png",
@@ -133,7 +133,7 @@
     },
     {
       "title": "MyFlix",
-      "description": "A website that allows you to create a greeting card for your loved ones",
+      "description": "Find the latest movies and TV shows in no time",
       "url": "https://myflix-lake-six.vercel.app/",
       "images": [
         "https://i.ibb.co/VBcjXFG/myflix1.png",
@@ -144,7 +144,7 @@
     },
     {
       "title": "ChatterFly",
-      "description": "A RealTime Chat Application. Built with React, MUI and Firebase.",
+      "description": "A RealTime Chat Application. Built with React, MUI, and Firebase.",
       "url": "https://chatterfly.vercel.app/",
       "images": [
         "https://raw.githubusercontent.com/mamun-mahmood/chatterfly/main/docs/Screenshot%20from%202023-08-08%2009-45-25.png",
@@ -153,8 +153,17 @@
       "techs": ["React", "Redux", "MUI", "Firebase"]
     },
     {
-      "title": "BlueTrade: Dashboard Layout",
-      "description": "A Dashboard Layout built with React, ApexCharts and Vanilla CSS.",
+      "title": "Hoodex",
+      "description": "A Decentralized Digital Asset Swapping System",
+      "url": "https://bluetrade.vercel.app/",
+      "images": [
+        "https://raw.githubusercontent.com/mamun-mahmood/hootdexFrontend/master/Screenshot%20from%202023-12-03%2023-58-34.png"
+      ],
+      "techs": ["React", "ApexCharts", "MUI", "Nodejs", "Solidity", "Crypto Wallets"]
+    },
+    {
+      "title": "BlueTrade",
+      "description": "A Dashboard Layout built with React, ApexCharts, and Vanilla CSS.",
       "url": "https://bluetrade.vercel.app/",
       "images": [
         "https://raw.githubusercontent.com/mamun-mahmood/react-dashboard/main/docs/images/Screenshot%20from%202023-08-31%2020-52-00.png"

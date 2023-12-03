@@ -132,6 +132,15 @@
       ]
     },
     {
+      "title": "Hoodex",
+      "description": "A Decentralized Digital Asset Swapping System",
+      "url": "https://bluetrade.vercel.app/",
+      "images": [
+        "https://raw.githubusercontent.com/mamun-mahmood/hootdexFrontend/master/Screenshot%20from%202023-12-03%2023-58-34.png"
+      ],
+      "techs": ["React", "ApexCharts", "MUI", "Nodejs", "Solidity", "Crypto Wallets"]
+    },
+    {
       "title": "MyFlix",
       "description": "Find the latest movies and TV shows in no time",
       "url": "https://myflix-lake-six.vercel.app/",
@@ -152,15 +161,7 @@
       ],
       "techs": ["React", "Redux", "MUI", "Firebase"]
     },
-    {
-      "title": "Hoodex",
-      "description": "A Decentralized Digital Asset Swapping System",
-      "url": "https://bluetrade.vercel.app/",
-      "images": [
-        "https://raw.githubusercontent.com/mamun-mahmood/hootdexFrontend/master/Screenshot%20from%202023-12-03%2023-58-34.png"
-      ],
-      "techs": ["React", "ApexCharts", "MUI", "Nodejs", "Solidity", "Crypto Wallets"]
-    },
+    
     {
       "title": "BlueTrade",
       "description": "A Dashboard Layout built with React, ApexCharts, and Vanilla CSS.",

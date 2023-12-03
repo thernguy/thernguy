@@ -134,7 +134,7 @@
     {
       "title": "Hoodex",
       "description": "A Decentralized Digital Asset Swapping System",
-      "url": "https://bluetrade.vercel.app/",
+      "url": "https://www.hootdex.net/",
       "images": [
         "https://raw.githubusercontent.com/mamun-mahmood/hootdexFrontend/master/Screenshot%20from%202023-12-03%2023-58-34.png"
       ],

@@ -178,6 +178,17 @@
 "https://raw.githubusercontent.com/mamun-mahmood/react-dashboard/main/docs/images/Screenshot%20from%202023-08-31%2020-52-00.png"
 ],
 "techs": ["React", "ApexCharts", "Vanilla CSS"]
+},
+  {
+"title": "Whiteboard",
+"description": "A whiteboard app, where you can draw and save things online.",
+"url": "https://whiteboardx.vercel.app/",
+"images": [
+"https://github.com/mamun-mahmood/whiteboard/raw/master/docs/ss/p2.png",
+  "https://github.com/mamun-mahmood/whiteboard/raw/master/docs/ss/p1.png"
+],
+"techs": ["MERN stack"]
 }
+
 ]
 }

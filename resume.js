@@ -53,7 +53,7 @@
     "Version Control",
     "Problem Solving",
     "Debugging"
-  ],
+  ]
   },
   "experience": [
     {

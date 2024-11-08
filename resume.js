@@ -10,11 +10,11 @@
   },
   "objective": "Software Developer with 3 years of experience, adept in the MERN stack along with React Native, seeking remote opportunities to apply expertise in full-stack development. Eager to contribute to innovative projects and continue advancing skills in a dynamic environment.",
   "skills": {
-    "Languages": [
+    "libraries": [
       "JavaScript",
       "Typescript"
     ],
-    "Libraries & Frameworks": [
+    "libraries": [
       "React",
       "React Native",
       "Redux Toolkit",
@@ -23,14 +23,14 @@
       "Nest.js",
       "Expo"
     ],
-    "Database & Backend": [
+    "dbAndBackend": [
       "REST API",
       "MongoDB",
       "MySQL",
       "PostgreSQL",
       "Firebase)"
     ],
-    "Tools": [
+    "tools": [
       "Git",
       "GitHub",
       "Gitlab",
@@ -39,7 +39,7 @@
       "VS Code",
       "Figma"
     ],
-    "Design & Others": [
+    "designs": [
       "HTML",
       "CSS",
       "Tailwind",
@@ -47,7 +47,7 @@
       "Ant Design",
       "Tamagui"
     ],
-      "Soft Skills": [
+      "softSkills": [
     "Communication",
     "Clean Code",
     "Version Control",

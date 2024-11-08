@@ -102,7 +102,7 @@
       "name": "CompleteGreet",
       "description": "CompleteGreet is a SASS platform that combines live text chat and video bubbles in perfect harmony, It let's you to create chat bubble and embed it in your website with features like live chats, calls.",
       "url": "https://completegreet.com",
-      "image": "https://completegreet.com/_next/image?url=%2Fimages%2Ftop-logo.png&w=256&q=75",
+      "image": "https://completegreet.com/wp-content/uploads/2024/08/CompleteGreet-logo-bla.webp",
       "techs": [
         "Next.js",
         "Tailwind CSS",

@@ -10,7 +10,7 @@
   },
   "objective": "Software Developer with 3 years of experience, adept in the MERN stack along with React Native, seeking remote opportunities to apply expertise in full-stack development. Eager to contribute to innovative projects and continue advancing skills in a dynamic environment.",
   "skills": {
-    "libraries": [
+    "languages": [
       "JavaScript",
       "Typescript"
     ],

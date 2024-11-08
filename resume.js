@@ -46,15 +46,15 @@
       "Material UI",
       "Ant Design",
       "Tamagui"
-    ]
-  },
-  "Soft Skills": [
+    ],
+      "Soft Skills": [
     "Communication",
     "Clean Code",
     "Version Control",
     "Problem Solving",
     "Debugging"
   ],
+  },
   "experience": [
     {
       "title": "Frontend Developer",

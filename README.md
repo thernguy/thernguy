@@ -31,9 +31,8 @@
 ---
 
 ## 🌟 Contributions and Community
-- **Open Source**: Actively contributing to [Hacktoberfest](https://hacktoberfest.com/) and other open-source projects.
 - **Mentorship**: Guiding junior developers in understanding modern JavaScript frameworks and React Native.
-- **Technical Writing**: Sharing insights on React and MERN stack [on Medium](https://medium.com/your-profile) or LinkedIn.
+- **Technical Writing**: Sharing insights on React and MERN stack [on Medium](https://mamun1999.medium.com/) and [LinkedIn](https://www.linkedin.com/in/mamunmahmood/).
 
 ---
 

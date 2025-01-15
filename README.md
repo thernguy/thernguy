@@ -10,7 +10,7 @@
 
 ## 🚀 Featured Projects
 
-### [Multi-Vendor Inventory Swapping App](https://github.com/your-repo)
+### [Multi-Vendor Inventory Swapping App](https://www.canva.com/design/DAGbITrah1w/UHZu3SrGhSI7MB-Zzy1Zkg/view?utm_content=DAGbITrah1w&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1119309d8c)
 - Built with **React Native**, **Redux Toolkit**, and **TypeScript**.
 - Delivered seamless functionality across **iOS** and **Android** platforms.
 - Designed and implemented structured navigation patterns and optimized app performance.
@@ -20,18 +20,12 @@
 - Engineered live chat, video playback, and scheduling capabilities.
 - Optimized media management with **Cloudinary** for efficient handling.
 
-### [E-commerce Mobile App](https://github.com/your-repo)
-- Developed a complete e-commerce platform with **React Native** and **Redux Toolkit**.
-- Implemented features like inventory management, real-time updates, and multi-vendor support.
-- Focused on providing a seamless user experience with robust backend API integration.
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=thernguy&show_icons=true&locale=en" alt="mamun" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=thernguy&" alt="mamun" />
 </p>
 
 ---

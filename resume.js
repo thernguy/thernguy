@@ -5,8 +5,8 @@
     "phone": "8801799464391",
     "location": "Dhaka, Bangladesh",
     "linkedin": "https://www.linkedin.com/in/mamunmahmood/",
-    "github": "https://github.com/mamun-mahmood/",
-    "twitter": "https://twitter.com/mamunmah"
+    "github": "https://github.com/thernguy/",
+    "twitter": "https://twitter.com/mamun_undefined"
   },
   "objective": "Software Developer with 3 years of experience, adept in the MERN stack along with React Native, seeking remote opportunities to apply expertise in full-stack development. Eager to contribute to innovative projects and continue advancing skills in a dynamic environment.",
   "skills": {
@@ -36,7 +36,6 @@
       "Gitlab",
       "Trello",
       "Postman",
-      "VS Code",
       "Figma"
     ],
     "designs": [
@@ -61,11 +60,11 @@
       "company": "Medisuware Ltd, Dhaka, Bangladesh",
       "company_url": "https://mediusware.com/",
       "logo_path": "https://mediusware.com/brand.svg",
-      "duration": "Dec 2024 - Current",
-      "location": "Dhaka Bangladesh",
+      "duration": "Dec 2023 - Present",
+      "location": "Dhaka, Bangladesh",
       "description": [
-        "Implemented user onboarding system, resulting in a 20% increase in engagement and stream-\nlining subscription management.",
-        "Resolved cross-platform issues for web and mobile, enhancing user experience and ensuring smooth functionality across Android and iOS devices.",
+        "Implemented user onboarding system, resulting in a 20% increase in engagement and streamlining subscription management.",
+        "Resolved cross-platform issues for web and mobile, enhancing user experience and ensuring smooth functionality across Android and iOS devices.",
         "Built complex CRUD layouts and optimized UI for performance, improving workflow efficiency and reducing support requests by 25%."
       ],
       "color": "#0879bf"
@@ -75,24 +74,25 @@
       "company": "Marketplace",
       "duration": "April 2023 - Dec 2023",
       "description": [
-        "Completed over 13 client jobs with a 5-star rating, showcasing React, Node.js, MongoDB, and Express expertise.",
-        "Developed and optimized responsive, dynamic web applications for diverse clients, ensuring\nscalable and maintainable code.",
-        "Collaborated with international clients, managed project timelines, and delivered high-quality\nfrontend solutions, aligning with client needs.",
-        "Gained valuable experience in project management, client communication, and delivering tailored\ntechnical solutions under tight deadlines."
+        "Completed over 13 client jobs with a 5-star rating, showcasing React, Node.js, MongoDB, and Express expertise.",
+        "Developed and optimized responsive, dynamic web applications for diverse clients, ensuring scalable and maintainable code.",
+        "Collaborated with international clients, managed project timelines, and delivered high-quality frontend solutions, aligning with client needs.",
+        "Gained valuable experience in project management, client communication, and delivering tailored technical solutions under tight deadlines."
       ],
       "color": "#0879bf"
     },
     {
-      "title": "Jr Fullstack Developer (Remote)",
+      "title": "Junior Full Stack Developer (Remote)",
       "company": "Megahoot Technologies Inc",
       "company_url": "https://megahoot.com/",
       "logo_path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKDTWDTTIx7ayvF78wTFdQeDIh-7hgM07b4QRALA5_nU-nOeCofJkxSrga3_ee1ckxSTY",
-      "duration": "Februray 2022 - March 2023",
-      "location": "Florida, USA",
+      "duration": "Feb 2022 - Mar 2023",
+      "location": "Remote",
       "description": [
         "Contributed to the development of user verification badges, link previews, and designation systems, improving user experience and engagement.",
-        "Implemented lazy-loading for images and components, enhancing performance and\nreducing page load times.",
-        "Collaborated on building and integrating backend APIs with Node.js and Express,\nensuring seamless data flow and functionality across the application."
+        "Implemented lazy-loading for images and components, enhancing performance and reducing page load times.",
+        "Developed and maintained the frontend of a MERN-based project using React and Redux for efficient state management.",
+        "Collaborated on building and integrating backend APIs with Node.js and Express, ensuring seamless data flow and functionality across the application."
       ],
       "color": "#0879bf"
     }
@@ -147,7 +147,7 @@
   "works": [
     {
       "title": "Complete Greet",
-      "description": "A website that lets you to create a chat bubble and embed it in your website with features like live chats, and calls.",
+      "description": "A website that lets you create a chat bubble and embeds it in your website with features like live chats, and calls.",
       "url": "https://completegreet.com",
       "images": [
         "https://i.ibb.co/Wk10Fsj/completegreet1.png",

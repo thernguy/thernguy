@@ -1,11 +1,11 @@
 {
   "contacts": {
-    "name": "Mamun Mahmood",
+    "name": "M A Mamun",
     "email": "mamamun1999@gmail.com",
     "phone": "8801799464391",
     "location": "Dhaka, Bangladesh",
     "linkedin": "https://www.linkedin.com/in/mamunmahmood/",
-    "github": "https://github.com/thernguy/",
+    "github": "https://github.com/thernguy",
     "twitter": "https://twitter.com/mamun_undefined"
   },
   "objective": "Software Developer with 3 years of experience, adept in the MERN stack along with React Native, seeking remote opportunities to apply expertise in full-stack development. Eager to contribute to innovative projects and continue advancing skills in a dynamic environment.",
@@ -46,13 +46,13 @@
       "Ant Design",
       "Tamagui"
     ],
-      "softSkills": [
-    "Communication",
-    "Clean Code",
-    "Version Control",
-    "Problem Solving",
-    "Debugging"
-  ]
+    "softSkills": [
+      "Communication",
+      "Clean Code",
+      "Version Control",
+      "Problem Solving",
+      "Debugging"
+    ]
   },
   "experience": [
     {
@@ -124,11 +124,10 @@
       ]
     }
   ],
-  "leadership": "At Medisuware Ltd, I led the development of a React Native e-commerce platform for inventory swapping,\n\nwhere I:\n\n- Initiated the project setup using React Native CLI, incorporating best practices and TypeScript with\n\nstrict type safety.\n\n- Designed a structured navigation pattern based on a thorough analysis of the provided UI design.\n\n- Integrated Redux Toolkit for state management, including data persistence and cache validation to ensure\n\nseamless performance.\n\nI also:\n\n- Onboarded and mentored another developer, guiding them through the contribution process while ensuring\n\nproper code structure.\n\n- Managed version control using Git, overseeing merges to maintain stability and prevent feature breakages.\n\n- Maintained a dedicated TestFlight branch for production, ensuring clean, production-ready code for\n\ndeployment.\n\n- Mentored junior developers, focusing on code quality and adherence to industry best practices.",
+  "leadership": "At Medisuware Ltd, led the development of a React Native Multi-Vendor inventory swapping platform with a focus on:\n- Initiating and structuring the project with React Native CLI, TypeScript, MMKV, andRedux Toolkit.\n- Mentoring junior developers, ensuring clean, scalable code aligned with best practices.\n- Managing Git repositories, Playstore, and TestFlight deployments for testing and production stability.",
   "extraCurricular": [
-    "Share insights on React, Node.js, and JavaScript tips and tricks on LinkedIn.",
-    "Avid guitar player and music enthusiast.",
-    "Passionate about fitness."
+    "Actively shares technical insights on React and JavaScript through LinkedIn, engaging with the developer community.",
+    "Avid guitar player, exploring diverse music genres and styles."
   ],
   "education": {
     "school": "University of Global Village, Barisal, Bangladesh.",
@@ -179,6 +178,19 @@
         "Nodejs",
         "Solidity",
         "Crypto Wallets"
+      ]
+    },
+    {
+      "title": "New app (PWA)",
+      "description": "Offile Capable web applicaton with Authentication and reaction feature",
+      "url": "https://completegreet.com",
+      "images": [
+        "https://fast.image.delivery/ekqpruv.png?source=image.delivery"
+      ],
+      "techs": [
+        "ViteReact",
+        "Fireabse",
+        "Material UI"
       ]
     },
     {

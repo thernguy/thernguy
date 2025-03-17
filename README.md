@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">Hi there 👋, I'm M A Mamun!</h2>
-<p align="center">A passionate Frontend Developer with expertise in React Native, specializing in building dynamic and responsive web and mobile applications.</p>
+<p align="center">A passionate Fullstack Developer with expertise in app development, specializing in building dynamic and responsive web and mobile applications.</p>
 <p align="center">🌟 Exploring the MERN stack and modern frontend technologies to create innovative solutions.</p>
 
 ---

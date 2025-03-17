@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=thernguy&label=Profile%20views&color=0e75b6&style=flat" alt="mamunmahmood" />
 </p>
 
-<h2 align="center">Hi there 👋, I'm M A Mamun!</h2>
+<h2 align="center">🚀 Hi there 👋, I'm M A Mamun!</h2>
 <p align="center">A passionate Fullstack Developer with expertise in app development, specializing in building dynamic and responsive web and mobile applications.</p>
 <p align="center">🌟 Exploring the MERN stack and modern frontend technologies to create innovative solutions.</p>
 
@@ -11,14 +11,24 @@
 ## 🚀 Featured Projects
 
 ### [Multi-Vendor Inventory Swapping App](https://www.canva.com/design/DAGbITrah1w/UHZu3SrGhSI7MB-Zzy1Zkg/view?utm_content=DAGbITrah1w&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1119309d8c)
-- Built with **React Native**, **Redux Toolkit**, and **TypeScript**.
-- Delivered seamless functionality across **iOS** and **Android** platforms.
-- Designed and implemented structured navigation patterns and optimized app performance.
+- **Built with**: **React Native**, **Redux Toolkit**, and **TypeScript**.
+- **Key Features**: Seamless functionality across **iOS** and **Android** platforms, structured navigation patterns, and optimized app performance.
+- **Impact**: Streamlined inventory management for businesses.
 
 ### [Video Bubble Platform](https://completegreet.com)
-- Developed using **Next.js 13**, **RTK**, and **MySQL**.
-- Engineered live chat, video playback, and scheduling capabilities.
-- Optimized media management with **Cloudinary** for efficient handling.
+- **Built with**: **Next.js 13**, **RTK**, and **MySQL**.
+- **Key Features**: Live chat, video playback, and scheduling capabilities. Optimized media management with **Cloudinary**.
+- **Impact**: Enhanced user engagement through interactive video experiences.
+
+### [ServiceBolt](https://play.google.com/store/apps/details?id=com.servicebolt.app) (Google Play) / [ServiceBolt](https://apps.apple.com/us/app/servicebolt/id6471255288) (App Store)
+- **Service Scheduling App**: Real-time booking and background location tracking.
+- **Key Features**: Streamlined service management for businesses and clients, quote generation, and invoice creation.
+- **Impact**: Simplified scheduling processes for service-based industries.
+
+### [Megahoot ChatHive](https://play.google.com/store/apps/details?id=megahoot.net)
+- **Real-time Chat Platform**: Built with **React Native**, **WebSockets**, and **Firebase**.
+- **Key Features**: Seamless communication across platforms, efficient data handling, group chats, and file sharing.
+- **Impact**: Enhanced communication for communities and teams.
 
 ---
 

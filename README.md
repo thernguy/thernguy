@@ -21,12 +21,12 @@
 - **Key Features**: Live chat, video playback, and scheduling capabilities. Optimized media management with **Cloudinary**.
 - **Impact**: Enhanced user engagement through interactive video experiences.
 
-### [ServiceBolt](https://play.google.com/store/apps/details?id=com.servicebolt.app) (Google Play) / [ServiceBolt](https://apps.apple.com/us/app/servicebolt/id6471255288) (App Store)
+### [Worker App](https://play.google.com/store/apps/details?id=com.servicebolt.app) (Google Play) / [](https://apps.apple.com/us/app/servicebolt/id6471255288) (App Store)
 - **Service Scheduling App**: Real-time booking and background location tracking.
 - **Key Features**: Streamlined service management for businesses and clients, quote generation, and invoice creation.
 - **Impact**: Simplified scheduling processes for service-based industries.
 
-### [Megahoot ChatHive](https://play.google.com/store/apps/details?id=megahoot.net)
+### [ChatHive](https://play.google.com/store/apps/details?id=megahoot.net)
 - **Real-time Chat Platform**: Built with **React Native**, **WebSockets**, and **Firebase**.
 - **Key Features**: Seamless communication across platforms, efficient data handling, group chats, and file sharing.
 - **Impact**: Enhanced communication for communities and teams.

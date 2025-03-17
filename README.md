@@ -3,7 +3,8 @@
 </p>
 
 <h2 align="center">🚀 Hi there 👋, I'm M A Mamun!</h2>
-<p align="center">A passionate Fullstack Developer with expertise in app development, specializing in building dynamic and responsive web and mobile applications.</p>
+<p align="center">Full-Stack & Mobile Developer with 3 years of experience building scalable web and mobile applications. Skilled in React, React Native, and the MERN stack, crafting dynamic UIs and optimizing performance.
+</p>
 <p align="center">🌟 Exploring the MERN stack and modern frontend technologies to create innovative solutions.</p>
 
 ---

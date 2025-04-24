@@ -130,7 +130,7 @@
     },
     "works": [
         {
-            "title": "Hoot – Social Media Platform",
+            "title": "MegaHoot – Social Media Platform",
             "description": "A cross-platform messaging app built with React Native for a sleek and real-time communication experience.",
             "url": "https://www.megahoot.net",
             "images": [

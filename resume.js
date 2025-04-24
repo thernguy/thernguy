@@ -8,7 +8,7 @@
     "github": "https://github.com/thernguy",
     "twitter": "https://twitter.com/mamun_undefined"
   },
-  "objective": "Software Developer with 3 years of experience, adept in the MERN stack along with React Native, seeking remote opportunities to apply expertise in full-stack development. Eager to contribute to innovative projects and continue advancing skills in a dynamic environment.",
+  "objective": "I build reliable, performant mobile apps using React Native and modern full-stack tools like Node.js, Next.js, Firebase, and Supabase. With 3+ years of hands-on experience, I’ve worked on e-commerce, loyalty, and SaaS platforms—handling everything from clean UI implementation to backend API development and deployment. Focused on writing maintainable code and solving real user problems.",
   "skills": {
     "languages": [
       "JavaScript",
@@ -34,13 +34,10 @@
       "Git",
       "GitHub",
       "Gitlab",
-      "Trello",
       "Postman",
       "Figma"
     ],
     "designs": [
-      "HTML",
-      "CSS",
       "Tailwind",
       "Material UI",
       "Ant Design",
@@ -56,43 +53,31 @@
   },
   "experience": [
     {
-      "title": "Frontend Developer",
+      "title": "Frontend Developer (React Native)",
       "company": "Medisuware Ltd, Dhaka, Bangladesh",
-      "company_url": "https://mediusware.com/",
+      "company_url": "https://mediusware.com/team/md-al-mamun",
       "logo_path": "https://mediusware.com/brand.svg",
       "duration": "Dec 2023 - Present",
       "location": "Dhaka, Bangladesh",
       "description": [
-        "Implemented user onboarding system, resulting in a 20% increase in engagement and streamlining subscription management.",
-        "Resolved cross-platform issues for web and mobile, enhancing user experience and ensuring smooth functionality across Android and iOS devices.",
-        "Built complex CRUD layouts and optimized UI for performance, improving workflow efficiency and reducing support requests by 25%."
+        "Built a user onboarding system that boosted engagement by 20% and streamlined subscription workflows.",
+        "Developed and deployed cross-platform mobile features using React Native and Expo. Deployed apps to App Store and Google Play.",
+        "Managed Git workflows, enforced PR reviews, and maintained clean, production-ready code across teams."
       ],
       "color": "#0879bf"
     },
     {
-      "title": "Freelance Developer (MERN)",
-      "company": "Marketplace",
-      "duration": "April 2023 - Dec 2023",
-      "description": [
-        "Completed over 13 client jobs with a 5-star rating, showcasing React, Node.js, MongoDB, and Express expertise.",
-        "Developed and optimized responsive, dynamic web applications for diverse clients, ensuring scalable and maintainable code.",
-        "Collaborated with international clients, managed project timelines, and delivered high-quality frontend solutions, aligning with client needs.",
-        "Gained valuable experience in project management, client communication, and delivering tailored technical solutions under tight deadlines."
-      ],
-      "color": "#0879bf"
-    },
-    {
-      "title": "Junior Full Stack Developer (Remote)",
+      "title": "Full Stack Developer (Remote)",
       "company": "Megahoot Technologies Inc",
       "company_url": "https://megahoot.com/",
       "logo_path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKDTWDTTIx7ayvF78wTFdQeDIh-7hgM07b4QRALA5_nU-nOeCofJkxSrga3_ee1ckxSTY",
-      "duration": "Feb 2022 - Mar 2023",
+      "duration": "Feb 2022 - Dec 2023",
       "location": "Remote",
       "description": [
-        "Contributed to the development of user verification badges, link previews, and designation systems, improving user experience and engagement.",
-        "Implemented lazy-loading for images and components, enhancing performance and reducing page load times.",
-        "Developed and maintained the frontend of a MERN-based project using React and Redux for efficient state management.",
-        "Collaborated on building and integrating backend APIs with Node.js and Express, ensuring seamless data flow and functionality across the application."
+        "Built features like user verification badges, link previews, and designation systems to boost engagement and UX.",
+        "Implemented lazy-loading for images and components, improving performance and reducing initial load times.",
+        "Developed and maintained the frontend of a MERN-stack project using React and Redux for scalable state management.",
+        "Collaborated on Node.js + Express APIs, ensuring smooth data flow and tight integration across the app."
       ],
       "color": "#0879bf"
     }

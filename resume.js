@@ -170,7 +170,7 @@
             "description": "Offile Capable web application with Firebase Authentication and React feature",
             "url": "https://newspaw.vercel.app",
             "images": [
-                "https://fast.image.delivery/ekqpruv.png?source=image.delivery"
+                "https://fast.image.delivery/dlgmsrw.png?source=image.delivery"
             ],
             "techs": [
                 "Vite React",

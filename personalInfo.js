@@ -1,22 +1,22 @@
 const socialLinks = [
   {
     name: "GitHub",
-    url: "http://github.com/mamun-mahmood",
+    url: "https://github.com/thernguy",
     image: "/icons/github.svg",
   },
   {
     name: "Twitter",
-    url: "http://twitter.com/mamunmahmood",
+    url: "https://x.com/mamun_undefined",
     image: "/icons/twitter.svg",
   },
   {
     name: "LinkedIn",
-    url: "http://linkedin.com/in/mamunmahmood",
+    url: "https://linkedin.com/in/mamunmahmood",
     image: "/icons/linkedin.svg",
   },
   {
     name: "Email",
-    url: "mailto",
+    url: "mailto:mamamun1999@gmail.com",
     image: "/icons/email.svg",
   },
 ];

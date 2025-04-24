@@ -130,6 +130,93 @@
     },
     "works": [
         {
+            "title": "Hoot – Social Media Platform",
+            "description": "A cross-platform messaging app built with React Native for a sleek and real-time communication experience.",
+            "url": "https://www.megahoot.net",
+            "images": [
+                "https://fast.image.delivery/mnotepf.png?source=image.delivery"
+            ],
+            "features": [
+                "Sleek UI & Animations: Crafted using React Native Paper with fluid transitions powered by ReAnimated.",
+                "Core Features: Implemented profile creation, user management, and secure authentication for smooth onboarding.",
+                "Real-Time Messaging: Integrated WebSocket for live chat and Firebase push notifications for instant user alerts."
+            ],
+            "techs": [
+                "React",
+                "Redux",
+                "Tailwind",
+                "Express",
+                "MySql"
+            ]
+        },
+        {
+            "title": "Hoot – Social Media Platform",
+            "description": "A cross-platform messaging app built with React Native for a sleek and real-time communication experience.",
+            "url": "https://www.megahoot.net",
+            "images": [
+                "https://fast.image.delivery/mnotepf.png?source=image.delivery"
+            ],
+            "features": [
+                "Sleek UI & Animations: Crafted using React Native Paper with fluid transitions powered by ReAnimated.",
+                "Core Features: Implemented profile creation, user management, and secure authentication for smooth onboarding.",
+                "Real-Time Messaging: Integrated WebSocket for live chat and Firebase push notifications for instant user alerts."
+            ],
+            "techs": [
+                "React",
+                "Redux",
+                "Tailwind",
+                "Express",
+                "MySql"
+            ]
+        },
+        {
+            "title": "ChatHive – Messaging App",
+            "description": "A cross-platform messaging app built with React Native for a sleek and real-time communication experience.",
+            "url": "https://play.google.com/store/apps/details?id=com.mchathive&hl=en",
+            "images": [
+                "https://fast.image.delivery/rtcqvtc.png?source=image.delivery",
+                "https://fast.image.delivery/xoixwwa.png?source=image.delivery",
+                "https://fast.image.delivery/pjfzatt.png?source=image.delivery"
+            ],
+            "features": [
+                "Sleek UI & Animations: Crafted using React Native Paper with fluid transitions powered by ReAnimated.",
+                "Core Features: Implemented profile creation, user management, and secure authentication for smooth onboarding.",
+                "Real-Time Messaging: Integrated WebSocket for live chat and Firebase push notifications for instant user alerts."
+            ],
+            "techs": [
+                "React Native",
+                "Expo",
+                "Redux",
+                "Push Notification",
+                "Nodejs",
+                "Web Socket",
+                "Firebase"
+            ]
+        },
+        {
+            "title": "Worker App",
+            "description": "A mobile app built for field workers to streamline task management and real-time communication.",
+            "url": "https://apps.apple.com/dk/app/servicebolt/id6471255288",
+            "images": [
+                "https://play-lh.googleusercontent.com/zEILav7f8r-K3nmebCHrY9eug5zIXC7Bqkr8p8IS8CjmF8kTn3-4cwVt3EsFjfrFxQ=w2560-h1440-rw",
+                "https://play-lh.googleusercontent.com/6J68G78xdmhlsdPrcaLN6atJKBTZwQFL2zBDPy4UglUrIueD4PPpqVsi9IUHGOO1NvI=w2560-h1440-rw",
+                "https://play-lh.googleusercontent.com/Kze-XRG0eRm4F5PYfeNPQNv3rWk97q2nKS-N4TWzRarMs6-2Ezs2_dV_J10-_VBvJww=w2560-h1440-rw"
+            ],
+            "features": [
+                "Real-Time Location Tracking: Enabled continuous GPS tracking for efficient monitoring and logistics.",
+                "Push Notifications & Messaging: Integrated Firebase for instant alerts and in-app chat, boosting coordination.",
+                "Background Task Automation: Built timers and job schedulers to handle workflow automation in the background.",
+                "iOS App Store Deployment: Troubleshot and resolved complex iOS issues, ensuring a successful App Store launch."
+            ],
+            "techs": [
+                "React Native CLI",
+                "Redux",
+                "React Class Component",
+                "Push Notification",
+                "Location Tracking"
+            ]
+        },
+        {
             "title": "Complete Greet",
             "description": "A website that lets you create a chat bubble and embeds it in your website with features like live chats, and calls.",
             "url": "https://completegreet.com",
@@ -150,7 +237,7 @@
             ]
         },
         {
-            "title": "Hoodex",
+            "title": "Hoodex - Asset Swap",
             "description": "A Decentralized Digital Asset Swapping System",
             "url": "https://www.hootdex.net/",
             "images": [

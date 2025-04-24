@@ -150,26 +150,6 @@
             ]
         },
         {
-            "title": "Hoot – Social Media Platform",
-            "description": "A cross-platform messaging app built with React Native for a sleek and real-time communication experience.",
-            "url": "https://www.megahoot.net",
-            "images": [
-                "https://fast.image.delivery/mnotepf.png?source=image.delivery"
-            ],
-            "features": [
-                "Sleek UI & Animations: Crafted using React Native Paper with fluid transitions powered by ReAnimated.",
-                "Core Features: Implemented profile creation, user management, and secure authentication for smooth onboarding.",
-                "Real-Time Messaging: Integrated WebSocket for live chat and Firebase push notifications for instant user alerts."
-            ],
-            "techs": [
-                "React",
-                "Redux",
-                "Tailwind",
-                "Express",
-                "MySql"
-            ]
-        },
-        {
             "title": "ChatHive – Messaging App",
             "description": "A cross-platform messaging app built with React Native for a sleek and real-time communication experience.",
             "url": "https://play.google.com/store/apps/details?id=com.mchathive&hl=en",

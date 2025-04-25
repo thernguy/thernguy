@@ -129,6 +129,29 @@
         ]
     },
     "works": [
+       {
+            "title": "Šurrat – North Sámi Language Learning App",
+            "description": "Šurrat is an interactive language learning app designed to help users practice and master North Sámi, an indigenous language spoken across parts of Northern Europe.",
+            "url": "https://apps.apple.com/us/app/%C5%A1urrat/id6743926905",
+            "images": [
+                "https://fast.image.delivery/sdigbku.png?source=image.delivery",
+              "https://fast.image.delivery/hfgylwo.png?source=image.delivery",
+              "https://fast.image.delivery/amoyuhv.png?source=image.delivery"
+            ],
+            "features": [
+                "Speech Practice with high-quality voice synthesis powered by Acapela.",
+                "Rule-based Language Infrastructure from GiellaLT",
+                "Vocabulary & Grammar Exercises based on real-world usage",
+              "Spaced Repetition and interactive lessons"
+            ],
+            "techs": [
+                "React Native",
+                "Redux Toolkit",
+                "Acapela TTS",
+                "GiellaLT APIs",
+                "Apple In-App Purchases"
+            ]
+        },
         {
             "title": "MegaHoot – Social Media Platform",
             "description": "A cross-platform messaging app built with React Native for a sleek and real-time communication experience.",

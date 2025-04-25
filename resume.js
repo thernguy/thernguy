@@ -130,8 +130,8 @@
     },
     "works": [
        {
-            "title": "Šurrat – North Sámi Language Learning App",
-            "description": "Šurrat is an interactive language learning app designed to help users practice and master North Sámi, an indigenous language spoken across parts of Northern Europe.",
+            "title": "Surrat - North Sami Language Learning App",
+            "description": "Surrat is an interactive language learning app designed to help users practice and master North Sami, an indigenous language spoken across parts of Northern Europe.",
             "url": "https://apps.apple.com/us/app/%C5%A1urrat/id6743926905",
             "images": [
                 "https://fast.image.delivery/sdigbku.png?source=image.delivery",
@@ -153,7 +153,7 @@
             ]
         },
         {
-            "title": "MegaHoot – Social Media Platform",
+            "title": "MegaHoot - Social Media Platform",
             "description": "A cross-platform messaging app built with React Native for a sleek and real-time communication experience.",
             "url": "https://www.megahoot.net",
             "images": [
@@ -173,7 +173,7 @@
             ]
         },
         {
-            "title": "ChatHive – Messaging App",
+            "title": "ChatHive - Messaging App",
             "description": "A cross-platform messaging app built with React Native for a sleek and real-time communication experience.",
             "url": "https://play.google.com/store/apps/details?id=com.mchathive&hl=en",
             "images": [

@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 Featured Projects
-### [Surrat – North Sami Language Learning App](https://apps.apple.com/us/app/%C5%A1urrat/id6743926905)
+### [Surrat – AI Powered Language Learning App](https://apps.apple.com/us/app/%C5%A1urrat/id6743926905)
 - **Built with**: **React Native**, **Redux Toolkit**, **Acapela TTS**, **GiellaLT APIs**, and **Apple In-App Purchases**.
 - **Key Features**: Interactive lessons for North Sami, real-time pronunciation feedback, speech synthesis, and seamless performance on **iOS** and **Android** platforms.
 - **Impact**: Promotes the preservation and learning of the indigenous **North Sami** language through an engaging and accessible mobile experience.

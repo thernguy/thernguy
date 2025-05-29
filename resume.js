@@ -130,7 +130,7 @@
     },
     "works": [
        {
-            "title": "Surrat - North Sami Language Learning App",
+            "title": "Surrat - AI Powered Language Learning App",
             "description": "Surrat is an interactive language learning app designed to help users practice and master North Sami, an indigenous language spoken across parts of Northern Europe.",
             "url": "https://apps.apple.com/us/app/%C5%A1urrat/id6743926905",
             "images": [
